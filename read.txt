@@ -1,0 +1,14 @@
+ Volume in drive E has no label.
+ Volume Serial Number is EC5D-72AC
+
+ Directory of E:\Practice
+
+15-06-2020  11:00 PM    <DIR>          .
+15-06-2020  11:00 PM    <DIR>          ..
+07-06-2020  02:35 PM    <DIR>          .metadata
+07-06-2020  02:39 PM    <DIR>          .recommenders
+15-06-2020  09:19 PM    <DIR>          praticejenkins
+15-06-2020  11:00 PM                 0 read.txt
+07-06-2020  02:35 PM    <DIR>          RemoteSystemsTempFiles
+               1 File(s)              0 bytes
+               6 Dir(s)  286,165,413,888 bytes free
